@@ -2,7 +2,7 @@
 Learn to use github.
 ## another type title
 ### H3 type title
-**bold txt
+**bold txt**
 *italicized text*
 
 1. 写代码
